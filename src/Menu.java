@@ -32,7 +32,7 @@ public class Menu {
                 }
                 case 3 -> {
                     System.out.println("Draw the rectangle");
-                    System.out.println("* * * * * *");
+                    System.out.println("* * * * * #");
                     System.out.println("* * * * * *");
                     System.out.println("* * * * * *");
                 }
